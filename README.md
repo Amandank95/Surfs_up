@@ -7,6 +7,7 @@ For our client, W. Avy, our goal was to determine if it would be sensible to ope
 - The average temperature for the month of June is 75 degrees.
 
 ![Getting Started](June_temp.png)
+
 When you take a look at the temperatures in June, you will see it makes sense to have a Surf and Ice Cream shop in Hawaii during the summer. 
 
 # December Temperatures
