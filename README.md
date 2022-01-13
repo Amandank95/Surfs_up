@@ -1,5 +1,5 @@
 # Surfs up!
-For our client, W. Avy, our goal was to determine if it would be sensible to open up another Surf and Ice Cream shop. To determine how sustainable the busiess would be, we pulled the weather statistics for the months of June and December. 
+For our client, W. Avy, our goal was to determine if it would be sensible to open up another Surf and Ice Cream shop. To determine how sustainable the business would be, we pulled the weather statistics for the months of June and December. 
 
 # June Temperatures
 - The highest temperature for the month was 85 degrees. 
